@@ -8,6 +8,9 @@ packages = [{include = "airbnb_api"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pillow = "^9.3.0"
+django = "^4.1.4"
+django-seed = "^0.3.1"
 
 
 [build-system]
