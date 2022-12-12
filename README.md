@@ -1,18 +1,18 @@
-# Airbnb API
+# KASA API
 
-REST & GraphQL API of the Airbnb Clone using Django REST Framework and Graphene GraphQL
+REST & GraphQL API de la web app KASA que utiliza Django Rest Framework and Graphene GraphQL
 
-### API Actions
+### Acciones posibles de la API
 
-- [x] JWT Authentication
+- [x] JWT Autenticacion 
 - [x] Login (JWT)
-- [x] Create Account
-- [x] See Profile
-- [x] Edit Profile
-- [x] Add/Room From Favourites
-- [x] List Rooms
-- [x] See Room
-- [x] Create Room
-- [x] Edit Room
-- [x] Delete Room
-- [x] Search Rooms
+- [x] Creacion de Usuario
+- [x] Vista de Perfil Usuario
+- [x] Edicion del perfil usuario
+- [x] Agregar pieza o inmueble desde Favoritos
+- [x] Lista de Piezas o bien inmmueble 
+- [x] Ver Pieza o bien inmmueble
+- [x] Crear pieza o bien inmmueble
+- [x] Editar pieza o bien inmmueble
+- [x] Borrar pieza o bien inmmueble
+- [x] Buscar pieza o bien inmmueble
